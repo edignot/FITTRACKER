@@ -1,11 +1,10 @@
-# FITTRACKER
-A fitness tracking app
+# FITTRACKER - a fitness tracking application
 
-## Description
+## About
 This was a group project during Module 2 at [Turing School of Software & Design](https://turing.io/).
 In this project we needed to refactor and build on top of pre-existing codebase, while also implementing new features.
 
-## Technologies Used
+## Built with
 - Sass
 - jQuery
 - Fetch
@@ -32,6 +31,6 @@ In this project we needed to refactor and build on top of pre-existing codebase,
 1. Open `localhost:8080` in your favorite browser
 
 ## Contributors
-[Ruby Rinken](https://github.com/rubyr)
-[Jeremiah Black](https://github.com/jeremiahblackol)
-[Edita Ignot](https://github.com/edignot)
+- [Ruby Rinken](https://github.com/rubyr)
+- [Jeremiah Black](https://github.com/jeremiahblackol)
+- [Edita Ignot](https://github.com/edignot)
